@@ -24,7 +24,6 @@ The edit feature allows users to modify their previously submitted comments. Thi
 Users can delete comments they no longer wish to keep. The delete feature includes:
 
 - A "Delete" button next to each comment.
-- Confirmation prompts to prevent accidental deletions.
 - Immediate removal of the comment from the display upon confirmation.
 
 ### 4. Simple and Clean UI
